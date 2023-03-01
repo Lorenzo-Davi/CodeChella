@@ -1,0 +1,13 @@
+.banner{
+    background-image: url(../img/banner.svg);
+    padding: 93px 0;
+}
+
+.banner--texto{
+    font-family: 'Calistoga';
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 42px;
+    color: var(--branco);
+    text-align: center;
+}

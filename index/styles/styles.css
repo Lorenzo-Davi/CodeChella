@@ -1,0 +1,19 @@
+@import url(cabecalho.css);
+@import url(banner.css);
+@import url(data.css);
+
+:root{
+    --preto: #000000;
+    --branco: #ffffff;
+
+    --boreal-roxo: #4650BD;
+    --boreal-gradiente: linear-gradient(180deg, #304968 0%, #36C1A0 52.6%, #4650BD 100%);
+}
+
+body{
+    background-image: var(--boreal-gradiente);
+    font-family: 'Raleway';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 40px;
+}
