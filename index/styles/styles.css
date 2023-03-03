@@ -1,6 +1,7 @@
 @import url(cabecalho.css);
 @import url(banner.css);
 @import url(data.css);
+@import url(lineup.css  );
 
 :root{
     --preto: #000000;
@@ -8,6 +9,7 @@
 
     --boreal-roxo: #4650BD;
     --boreal-gradiente: linear-gradient(180deg, #304968 0%, #36C1A0 52.6%, #4650BD 100%);
+    --boreal-verde-escuro: #008364;
 }
 
 body{
